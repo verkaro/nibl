@@ -1,7 +1,7 @@
 # nibl: Not In Binary Language
 **beta quality: don't consider this stable!**
 
-**nibl** is a text-centric static site generator (SSG) designed for writers, storytellers, and creators who want to build websites directly from their manuscripts. It uniquely combines a powerful interactive fiction (IF) engine with "editor's sugar" to create a seamless workflow from first draft to finished product.
+**nibl** is a text-centric static site generator (SSG) designed for prose writers and interactive fiction creators who want to build websites directly from their manuscripts. It uniquely combines a powerful interactive fiction (IF) engine with "editor's sugar" to ease the workflow from rough draft to a web published product.
 
 ## The Core Idea
 
